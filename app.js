@@ -375,4 +375,4 @@ var message = "What is your favorite color?";
 var defaultResponse = "Black";
 
 var userInput = prompt(message, defaultResponse);
-alert("Your favorite color is: " + userInput);
+alert("Your favorite color is: " + userInput);g
